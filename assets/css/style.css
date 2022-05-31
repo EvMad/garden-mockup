@@ -79,3 +79,10 @@ body {
     max-width: 60vw;
     border-radius: 7px;
 }
+
+.register {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'BIZ UDGothic', sans-serif;
+}
