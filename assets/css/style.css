@@ -86,3 +86,16 @@ body {
     flex-direction: column;
     font-family: 'BIZ UDGothic', sans-serif;
 }
+
+.register > label {
+    margin: 10px 0;
+    color: var(--blue);
+    text-align: center;
+    
+}
+
+.registerInput {
+    padding: 10px;
+    background-color: white;
+    border: none;
+}
