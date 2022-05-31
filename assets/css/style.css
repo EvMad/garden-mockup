@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+}
+
+:root {
+    --green: #50F205;
+    --blue: #17AEBF;
+    --dark: #0D0D0D;
+}
