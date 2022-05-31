@@ -68,3 +68,14 @@ body {
     padding: 20px;
 }
 
+.feature {
+    font-weight: 400;
+    margin-top: 10px;
+    
+}
+
+.feature > img {
+    max-height: calc(100vh - 50px);
+    max-width: 60vw;
+    border-radius: 7px;
+}
